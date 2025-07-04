@@ -39,6 +39,6 @@ RF layout using Wilkinson topology with impedance control.
 
 ## 📬 Contact
 
-- 📧 malik.umer@email.com  
+- 📧 umersajid20208@gmail.com 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-umer-sajid-361084282)  
 - 🌐 GitHub: [github.com/scientist444](https://github.com/scientist444)
